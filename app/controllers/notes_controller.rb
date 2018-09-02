@@ -1,9 +1,22 @@
 class NotesController < ApplicationController
+  def index
+  end
 
-    #create new note
-    #read note
-    #update note
-    #delete note
-    
-    #
+  def show
+  end
+
+  def new
+  end
+
+  def create
+  end
+
+  def update
+  end
+
+  def destroy
+  end
+
+  def edit
+  end
 end
